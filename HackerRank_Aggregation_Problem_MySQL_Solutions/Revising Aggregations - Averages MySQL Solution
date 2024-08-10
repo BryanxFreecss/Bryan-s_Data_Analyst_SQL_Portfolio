@@ -1,0 +1,6 @@
+/* Question */
+Query the average population of all cities in CITY where District is California.
+
+/* Answer */
+SELECT AVG(Population) FROM CITY
+WHERE DISTRICT = 'California';
