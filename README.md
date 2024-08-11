@@ -1,5 +1,14 @@
-#Introduction
-My name is Bryan I started my career as a data anaylist around a year ago and am thankful everyday to continue to learn and become better.
+# Introduction
 
-##Goals
-My goals with this repository is to showcase my skills and create opportunties for new doors to opens.
+Hello! My name is Bryan. I began my career as a Data Analyst approximately one year ago. Every day, I am thankful for the opportunity to learn more and continually improve my skills.
+
+## Goals
+
+The primary purpose of this repository is to showcase my analytics skills. I am eager to build a portfolio that not only highlights my abilities but also opens up new opportunities for growth and collaboration.
+
+Feel free to explore my projects and reach out if you have any questions or potential collaborations in mind!
+
+Thank you for visiting!
+
+---
+Bryan
