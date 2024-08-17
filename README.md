@@ -1,6 +1,6 @@
 # Introduction
 
-Hello! My name is Bryan I began my career as a Data Analyst approximately around a year ago. I am thankful for the opportunity to learn more and continually improve my skills.
+Hello! My name is Bryan I began my career as a Data Analyst around a year ago. I am thankful for the opportunity to learn more and continually improve my skills.
 
 ## Goals
 
